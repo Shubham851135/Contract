@@ -41,7 +41,9 @@ It stores delegation relationships **on-chain** using Soroban contract storage.
 3. Representative's supporter count increases  
 4. If delegation changes:
    - Old representative count decreases  
-   - New representative count increases  
+   - New representative count increases
+
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/a536135a-510e-4c4b-826c-746ef95ecdd3" />
 
 ---
 
