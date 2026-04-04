@@ -1,5 +1,7 @@
 # 🗳️ Stellar Soroban Delegation Smart Contract
 
+Contract ID = CCVPYTJLQUHP6KLT7A2HK3XE4MLJIRIFVQBQNJOIWDJMPTUYLN5WQV75
+
 A basic **vote delegation smart contract** built on Stellar using Soroban (Rust).
 
 This project allows token holders to delegate their voting power to a trusted representative, forming the foundation for DAO-style governance on Stellar.
@@ -50,3 +52,7 @@ It stores delegation relationships **on-chain** using Soroban contract storage.
 ├── Cargo.toml
 └── src
     └── lib.rs
+wallet Address = GABCRLENNCRCYQAOJF2BICWLVAFA32EB24RUQAX3H2PFE343MIY4YLRX
+Contract ID = CCVPYTJLQUHP6KLT7A2HK3XE4MLJIRIFVQBQNJOIWDJMPTUYLN5WQV75
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/a536135a-510e-4c4b-826c-746ef95ecdd3" />
+
