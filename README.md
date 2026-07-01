@@ -45,7 +45,7 @@ It stores delegation relationships **on-chain** using Soroban contract storage.
 
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/a536135a-510e-4c4b-826c-746ef95ecdd3" />
 
----
+-----
 
 ## 📂 Project Structure
 
