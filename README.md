@@ -6,6 +6,9 @@ A basic **vote delegation smart contract** built on Stellar using Soroban (Rust)
 
 This project allows token holders to delegate their voting power to a trusted representative, forming the foundation for DAO-style governance on Stellar.
 
+
+
+
 ---
 
 ## 📌 What it does
