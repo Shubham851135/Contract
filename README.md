@@ -16,6 +16,8 @@ This project allows token holders to delegate their voting power to a trusted re
 This smart contract enables:
 
 - Token holders to **delegate voting rights**
+
+
 - Changing delegation anytime
 - Revoking delegation
 - Tracking how many users support a representative
